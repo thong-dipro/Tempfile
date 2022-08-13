@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "225187957130",
+    "project_id": "kreazy-cc52f",
+    "storage_bucket": "kreazy-cc52f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225187957130:android:f8912c63234cf8b3a7e073",
+        "android_client_info": {
+          "package_name": "com.example.dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225187957130-fdmmivduv5n3qboioi2urm63t6c3snv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqcw7H04i2STWZYHivTvCr-seDTKYUBKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225187957130-fdmmivduv5n3qboioi2urm63t6c3snv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
